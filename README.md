@@ -1,4 +1,4 @@
-# Vive Tracker Hand Mount
+# :wave: Vive Tracker Hand Mount
 A blatant rip-off of a famous sports camera hand/body mount. Just add velcro straps!
 
 ![Tracker on Hand](http://i.imgur.com/Zi8i0za.jpg)
