@@ -1,5 +1,8 @@
-# vive-tracker-ghost
-A blatant rip-off of a famous sports camera hand mount. Just add velcro straps!
+# Vive Tracker Hand Mount
+A blatant rip-off of a famous sports camera hand/body mount. Just add velcro straps!
+
+![Tracker on Hand](http://i.imgur.com/Zi8i0za.jpg)
+
 You can find out how to put this together by looking at product videos and photos of the real mount.
 
 ## Vitamins Required
@@ -8,5 +11,6 @@ You can find out how to put this together by looking at product videos and photo
 
 ## Padding
 You should add some foam/rubber padding underneath so it reduces conforms nicely with your hand or limb.
+
 
 Enjoy!
