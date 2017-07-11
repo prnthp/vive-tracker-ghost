@@ -10,7 +10,7 @@ You can find out how to put this together by looking at product videos and photo
 1. Velcro: Any hook-and-loop long enough to wrap around your hand twice should work
 
 ## Padding
-You should add some foam/rubber padding underneath so it reduces conforms nicely with your hand or limb.
+You should add some foam/rubber padding underneath so it conforms nicely with your hand or limb.
 
 
 Enjoy!
