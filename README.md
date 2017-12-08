@@ -13,4 +13,4 @@ You can find out how to put this together by looking at product videos and photo
 You should add some foam/rubber padding underneath so it conforms nicely with your hand or limb.
 
 
-Enjoy!
+Enjoy!!
